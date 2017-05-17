@@ -1,0 +1,10 @@
+
+
+                System.out.println("название:\t" + vacancy.getTitle());
+                System.out.println("компания:\t" + vacancy.getCompanyName());
+                System.out.println("город:\t\t" + vacancy.getCity());
+                System.out.println("зарплата:\t" + vacancy.getSalary());
+                System.out.println("сайт:\t\t" + vacancy.getSiteName());
+                System.out.println("ссылка:\t\t" + vacancy.getUrl());
+
+                System.out.println("---------------");
